@@ -12,8 +12,12 @@ namespace Farfetch
 		}
 		public string GetDeliveryNote()
 		{
-			return _strategy.GetDeliveryNote();
-		}
+            //Posso escrever todo código referente ao DeliveryNote, que é igual para todos, como exmploe abaixo
+            string commonAlgorithm = "Common Delivery + ";
+            commonAlgorithm += _strategy.GetDeliveryNote();
+            return commonAlgorithm;
+
+        }
 
 	}
 }
