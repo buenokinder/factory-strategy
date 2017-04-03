@@ -1,0 +1,6 @@
+c:\users\carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\bin\Debug\Farfetch.exe.config
+C:\Users\Carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\obj\Debug\Farfetch.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\bin\Debug\Farfetch.exe
+C:\Users\Carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\bin\Debug\Farfetch.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\obj\Debug\Farfetch.exe
+C:\Users\Carlos\documents\visual studio 2015\Projects\Farfetch\Farfetch\obj\Debug\Farfetch.pdb
