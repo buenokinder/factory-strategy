@@ -1,4 +1,4 @@
-# Delivery How-to
+# Delivery Howto
 
 
 ## Project test using C# and 2 Patterns (Strategy and Factory)
