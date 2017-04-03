@@ -3,7 +3,7 @@
 
 ## Project test using C# and 2 Patterns (Strategy and Factory)
 
-###Usage Example 
+### Usage Example 
 
 ```csharp
 
